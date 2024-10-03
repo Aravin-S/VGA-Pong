@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">/home/student2/t78khan/designproject2/VGA.vhd</arg>&quot; line <arg fmt="%d" index="2">95</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">icon</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">/home/student2/t78khan/designproject2/VGA.vhd</arg>&quot; line <arg fmt="%d" index="2">99</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">ila</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">ila_data&lt;63:4&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">000000000000000000000000000000000000000000000000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="643" delta="new" >&quot;<arg fmt="%s" index="1">/home/student2/t78khan/designproject2/VGA.vhd</arg>&quot; line <arg fmt="%d" index="2">270</arg>: The result of a <arg fmt="%d" index="3">32</arg>x<arg fmt="%d" index="4">4</arg>-bit multiplication is partially used. Only the <arg fmt="%d" index="5">32</arg> least significant bits are used. If you are doing this on purpose, you may safely ignore this warning. Otherwise, make sure you are not losing information, leading to unexpected circuit behavior.
+</msg>
+
+<msg type="warning" file="Xst" num="643" delta="new" >&quot;<arg fmt="%s" index="1">/home/student2/t78khan/designproject2/VGA.vhd</arg>&quot; line <arg fmt="%d" index="2">283</arg>: The result of a <arg fmt="%d" index="3">32</arg>x<arg fmt="%d" index="4">4</arg>-bit multiplication is partially used. Only the <arg fmt="%d" index="5">32</arg> least significant bits are used. If you are doing this on purpose, you may safely ignore this warning. Otherwise, make sure you are not losing information, leading to unexpected circuit behavior.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Gout_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">VGA</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Gout_4&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Bout_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">VGA</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Bout_1&gt; &lt;Bout_4&gt; &lt;Bout_7&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Bout_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">VGA</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Bout_3&gt; &lt;Bout_5&gt; &lt;Bout_6&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Gout_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">VGA</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Gout_1&gt; &lt;Gout_3&gt; &lt;Gout_5&gt; &lt;Gout_6&gt; &lt;Gout_7&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Rout_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">VGA</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Rout_1&gt; &lt;Rout_2&gt; &lt;Rout_3&gt; &lt;Rout_4&gt; &lt;Rout_5&gt; &lt;Rout_6&gt; &lt;Rout_7&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">dac</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">VGA</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;DAC_CLK&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+<msg type="warning" file="Xst" num="1415" delta="old" >No path found for this constraint.
+</msg>
+
+<msg type="warning" file="Xst" num="1415" delta="old" >No path found for this constraint.
+</msg>
+
+<msg type="warning" file="Xst" num="1415" delta="old" >No path found for this constraint.
+</msg>
+
+</messages>
+

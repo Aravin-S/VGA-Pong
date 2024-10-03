@@ -1,0 +1,19 @@
+V3 11
+FL /home/student2/t78khan/designproject2/ipcore_dir/icon.vhd 2023/11/28.18:59:01 O.87xd
+EN work/icon 1701464934 \
+      FL /home/student2/t78khan/designproject2/ipcore_dir/icon.vhd \
+      PB ieee/std_logic_1164 1325952872
+AR work/icon/icon_a 1701464935 \
+      FL /home/student2/t78khan/designproject2/ipcore_dir/icon.vhd EN work/icon 1701464934
+FL /home/student2/t78khan/designproject2/ipcore_dir/ila.vhd 2023/11/28.19:03:47 O.87xd
+EN work/ila 1701464936 \
+      FL /home/student2/t78khan/designproject2/ipcore_dir/ila.vhd \
+      PB ieee/std_logic_1164 1325952872
+AR work/ila/ila_a 1701464937 \
+      FL /home/student2/t78khan/designproject2/ipcore_dir/ila.vhd EN work/ila 1701464936
+FL /home/student2/t78khan/designproject2/VGA.vhd 2023/12/01.16:07:57 O.87xd
+EN work/VGA 1701464938 FL /home/student2/t78khan/designproject2/VGA.vhd \
+      PB ieee/std_logic_1164 1325952872
+AR work/VGA/Behavioral 1701464939 \
+      FL /home/student2/t78khan/designproject2/VGA.vhd EN work/VGA 1701464938 \
+      CP icon CP ila

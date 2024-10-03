@@ -1,0 +1,6 @@
+AR ila ila_a /home/student2/t78khan/designproject2/ipcore_dir/ila.vhd sub00/vhpl05 1701464937
+AR icon icon_a /home/student2/t78khan/designproject2/ipcore_dir/icon.vhd sub00/vhpl03 1701464935
+EN icon NULL /home/student2/t78khan/designproject2/ipcore_dir/icon.vhd sub00/vhpl02 1701464934
+EN vga NULL /home/student2/t78khan/designproject2/VGA.vhd sub00/vhpl00 1701464938
+AR vga behavioral /home/student2/t78khan/designproject2/VGA.vhd sub00/vhpl01 1701464939
+EN ila NULL /home/student2/t78khan/designproject2/ipcore_dir/ila.vhd sub00/vhpl04 1701464936
