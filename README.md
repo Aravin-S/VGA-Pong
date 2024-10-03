@@ -1,4 +1,4 @@
-# Project Title: FPGA-based Real-Time Signal Generator and Pong Game Implementation
+# FPGA-based Real-Time Signal Generator and Pong Game Implementation
 
 ## Project Summary:
 This project focuses on implementing a Pong game using the Xilinx Spartan-3E FPGA board. The game is displayed on a VGA monitor and controlled through on-board switches. The primary goal was to gain practical experience with real-time signal generation on an FPGA, particularly in video output subsystems and VGA standards, and to develop proficiency in VHDL coding for real-time applications.
